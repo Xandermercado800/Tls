@@ -1,6 +1,6 @@
 # http2-flooder
 
-New http2 flooder, leaked because the developer said his scripts are better than mine 
+New http2 flooder
 
 
 curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
